@@ -128,3 +128,65 @@ button {
     color: #1F2937;
     font-weight: bolder;
 }   
+
+.testimonial {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+    padding: 0 64px;
+}
+
+.testimonial .testimony {
+    font-size: 32px;
+    font-style: italic;
+    margin-bottom: 32px;
+}
+
+.testimonial .person {
+    align-self: flex-end;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.cta-banner {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    padding: 64px;
+    width: 50vw;
+    border-radius: 10px;
+}
+
+.cta-btn button {
+    background-color: #3882F6;
+    padding: 16px 40px;
+    border: 2px solid #F9FAF8;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    border-radius: 10px;
+}
+
+.cta-header {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    padding: 32px 0;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
