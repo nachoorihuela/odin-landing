@@ -1,5 +1,3 @@
-Vector logo from: https://www.vecteezy.com/vector-art/620462-sun-generic-logo-and-symbols
-by hati.royani
+All images from pexels.com:
 
-All images from unsplash.com:
-- https://unsplash.com/photos/V7uP-XzqX18 by Pars Sahin
+- https://www.pexels.com/photo/tent-in-camping-area-in-countryside-5589287/ by Dziana Hasanbekava
