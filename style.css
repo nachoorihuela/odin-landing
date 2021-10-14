@@ -86,3 +86,45 @@ a {
 button {
     border-style: none;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    padding: 0 32px;
+}
+
+.info-title {
+    text-align: center;
+    margin: 64px 0;
+}
+
+.info-cards {
+    display: flex;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25vw;
+}
+
+.card img {
+    width: 250px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.card p {
+    padding: 32px 64px;
+    text-align: justify;
+    color: #1F2937;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
+}   
